@@ -1,0 +1,25 @@
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - r-base=4.2.0
+  - r-tidyverse
+  - r-gplots
+  - r-scales
+  - r-lme4
+  - r-glmmtmb
+  - r-dharma
+  - r-emmeans
+  - r-mapdata
+  - r-geosphere
+  - r-devtools
+  - r-knitr
+  - r-rmarkdown
+  - r-broom
+  - r-mosaic
+  - r-rcppeigen
+  - r-mvtnorm
+  - r-minqa
+  - r-nloptr
+  - r-ggplot2
